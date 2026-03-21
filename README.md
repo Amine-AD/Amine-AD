@@ -18,4 +18,4 @@ Figma • Stitch • Antigravity
 ### 📫 Reach me
 -  Email: daimallah.amine@gmail.com  
 - LinkedIn: https://www.linkedin.com/in/amine-daimallah  
-- Upwork: [your-profile](https://www.upwork.com/freelancers/aminedaimallah)  
+- Upwork: [https://www.upwork.com/freelancers/aminedaimallah](https://www.upwork.com/freelancers/aminedaimallah)  
