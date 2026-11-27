@@ -4,7 +4,7 @@ I'm a **product engineer** from Morocco building web, mobile and Shopify apps fo
 
 I also build my own SaaS products for problems I've run into.
 
-[![Book a free call](https://img.shields.io/badge/Book_a_free_call-7C3AED?style=for-the-badge)](https://aminedaimallah.netlify.app/)
+[![Book a free call](https://img.shields.io/badge/Book_a_free_call-7C3AED?style=for-the-badge)](https://cal.com/YOUR-USERNAME/15min)
 [![Portfolio](https://img.shields.io/badge/Portfolio-0C0C0E?style=for-the-badge)](https://aminedaimallah.netlify.app/)
 
 ---
