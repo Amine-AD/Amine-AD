@@ -16,6 +16,7 @@ React, Next.js, Tanstack Start, Remix, Typescript, Tailwind CSS, shadcn/ui, Fram
 ---
 
 ### 📫 Reach me
-- Email: daimallah.amine@gmail.com  
+- webiste: [https://aminedaimallah.netlify.app/](https://aminedaimallah.netlify.app/)
+- Email: aminedaimallahdev@gmail.com  
 - LinkedIn: https://www.linkedin.com/in/amine-daimallah  
 - Upwork: [https://www.upwork.com/freelancers/aminedaimallah](https://www.upwork.com/freelancers/aminedaimallah)  
