@@ -1,6 +1,6 @@
 ## Hey there 👋
 
-I’m Amine, a Full Stack Developer from Morocco, based in Malaysia.
+I’m Amine, a Product engineer from Morocco, currently living in Malaysia.
 
 I build scalable web & mobile applications that convert ideas into real products, while helping clients grow their businesses and achieve real results.
 
